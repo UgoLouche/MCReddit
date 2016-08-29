@@ -1,0 +1,7 @@
+*.db
+*.opendb
+src/MCReddit/.vs/
+**/packages/*
+!**/packages/build/
+src/MCReddit/ipch/
+src/MCReddit/x64/
